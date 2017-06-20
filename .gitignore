@@ -1,0 +1,9 @@
+.gradle/
+build.gradle
+build/
+derby.log
+gradle/
+gradlew
+gradlew.bat
+pluralSightTest/
+settings.gradle
